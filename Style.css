@@ -6,6 +6,11 @@ body {
   background-image: url("korea-4141530_960_720.jpeg");
 }
 
+p {
+font-size:2vw;
+font-family: helvetica;
+align: center;
+}
 
 #navbar {
   overflow: hidden;
